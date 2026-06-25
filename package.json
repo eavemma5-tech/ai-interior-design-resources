@@ -1,0 +1,18 @@
+{
+  "name": "ai-interior-design-resources",
+  "version": "1.0.0",
+  "description": "Resource links and notes for AI interior design: https://ai-interior-design.net/",
+  "homepage": "https://ai-interior-design.net/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eavemma5-tech/ai-interior-design-resources.git"
+  },
+  "keywords": [
+    "ai-interior-design",
+    "interior-design",
+    "room-design",
+    "home-decor",
+    "https://ai-interior-design.net/"
+  ],
+  "license": "MIT"
+}

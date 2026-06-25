@@ -1,0 +1,10 @@
+name: Link Reference
+
+on:
+  workflow_dispatch:
+
+jobs:
+  reference:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "AI Interior Design: https://ai-interior-design.net/"
