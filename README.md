@@ -90,3 +90,8 @@ This repository collects notes and references around AI interior design workflow
 ## Related Resource
 
 The main recommended resource is **[AI Interior Design](https://ai-interior-design.net/)**.
+
+
+## Browser extension
+
+- [Firefox Add-on — Auroom AI Design Helper](https://addons.mozilla.org/en-US/firefox/addon/auroom-ai-design-helper/)

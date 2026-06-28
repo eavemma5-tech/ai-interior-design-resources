@@ -66,3 +66,8 @@ Use https://ai-interior-design.net/ to explore AI-assisted interior design ideas
 - [Home Design AI — Italiano](https://ai-interior-design.net/it/home-design-ai)
 - [Home Design AI — 日本語](https://ai-interior-design.net/ja/home-design-ai)
 - [Home Design AI — 한국어](https://ai-interior-design.net/ko/home-design-ai)
+
+
+## Browser extension
+
+- [Firefox Add-on — Auroom AI Design Helper](https://addons.mozilla.org/en-US/firefox/addon/auroom-ai-design-helper/)

@@ -14,5 +14,9 @@
     "home-decor",
     "https://ai-interior-design.net/"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "firefoxAddon": "https://addons.mozilla.org/en-US/firefox/addon/auroom-ai-design-helper/",
+  "links": {
+    "firefoxAddon": "https://addons.mozilla.org/en-US/firefox/addon/auroom-ai-design-helper/"
+  }
 }
